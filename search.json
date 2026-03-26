@@ -4,244 +4,174 @@
     "href": "sr_ma_session.html#what-is-a-systematic-review",
     "title": "Systematic Reviews & Meta-Analysis",
     "section": "What is a Systematic Review?",
-    "text": "What is a Systematic Review?\n\nA review of the evidence on a clearly formulated question that uses systematic and explicit methods to identify, select, and critically appraise relevant primary research, and to extract and analyse data from included studies.\n\n\nUses a pre-defined protocol with explicit methods\nAims to minimise bias in identifying, appraising, and synthesising studies\nMay or may not include a meta-analysis (quantitative synthesis)\nConsidered the highest level of evidence for clinical decision-making\n\n\nKey distinction: Meta-analysis = statistical synthesis only. It may or may not be part of a systematic review. Chalmers & Altman (1995) clarified this."
+    "text": "What is a Systematic Review?\n\nA review that uses systematic and explicit methods to identify, select, and critically appraise relevant research, and to synthesise findings.\n\n\nFollows a pre-defined protocol – decisions are not arbitrary\nAims to minimise bias at every stage\nMay or may not include a meta-analysis (statistical pooling)\nConsidered the highest level of evidence\n\n\nKey distinction: Meta-analysis = statistical synthesis only. It may or may not be part of a systematic review."
   },
   {
     "objectID": "sr_ma_session.html#why-do-we-need-systematic-reviews",
     "href": "sr_ma_session.html#why-do-we-need-systematic-reviews",
     "title": "Systematic Reviews & Meta-Analysis",
     "section": "Why Do We Need Systematic Reviews?",
-    "text": "Why Do We Need Systematic Reviews?\n\nKeep abreast of all previous and new research on a topic\nIntroduce new treatments expected to be better than existing ones\nDiscontinue outdated, harmful, or less cost-effective treatments\nDraft guidelines for health and social interventions\nArrive at consensus where conflicting evidence is reported\n\n\nEmphasise that SR provides the foundation for evidence-based practice guidelines and health policy. Without SRs, we rely on narrative reviews that are prone to researcher bias."
+    "text": "Why Do We Need Systematic Reviews?\n\nStay current with the flood of new research\nIdentify better treatments and retire outdated ones\nDraft evidence-based guidelines for health interventions\nResolve conflicts where studies report different results\nInform policy with transparent, reproducible evidence"
   },
   {
     "objectID": "sr_ma_session.html#narrative-review-vs-systematic-review",
     "href": "sr_ma_session.html#narrative-review-vs-systematic-review",
     "title": "Systematic Reviews & Meta-Analysis",
     "section": "Narrative Review vs Systematic Review",
-    "text": "Narrative Review vs Systematic Review\n\n\n\nTable 1: Key differences between narrative and systematic reviews\n\n\n\nWalk through the table row by row. Key contrasts: broad vs focused question, no protocol vs registered protocol, subjective vs explicit selection, 1+ author vs 3+ authors, weeks vs months-years timeline."
+    "text": "Narrative Review vs Systematic Review\n\n\n\nTable 1: Key differences between narrative and systematic reviews\n\n\n\nKey contrasts: broad vs focused question, no protocol vs registered protocol, subjective vs explicit selection, 1+ author vs 3+ authors, weeks vs months-years timeline."
   },
   {
-    "objectID": "sr_ma_session.html#narrative-review-vs-systematic-review-cont.",
-    "href": "sr_ma_session.html#narrative-review-vs-systematic-review-cont.",
+    "objectID": "sr_ma_session.html#overview-of-the-sr-process",
+    "href": "sr_ma_session.html#overview-of-the-sr-process",
     "title": "Systematic Reviews & Meta-Analysis",
-    "section": "Narrative Review vs Systematic Review (cont.)",
-    "text": "Narrative Review vs Systematic Review (cont.)\n\n\n\n\n\n\n\n\nFeature\nNarrative Review\nSystematic Review\n\n\n\n\nGoal\nSummary or overview\nAnswer a focused question\n\n\nQuestion\nBroad; hypothesis may not be stated\nPICO-defined; hypothesis stated\n\n\nProtocol\nNone\nPeer-reviewed, registered\n\n\nSearch\nNon-exhaustive, keyword-based\nComprehensive, reproducible\n\n\nAppraisal\nVariable quality evaluation\nStandard checklists (RoB)\n\n\nSynthesis\nInfluenced by reviewer beliefs\nEvidence-based, transparent\n\n\nTimeline\nWeeks to months\nMonths to years"
+    "section": "Overview of the SR Process",
+    "text": "Overview of the SR Process\n\n\n\nFigure 2: Common stages of a systematic review (Gough, Oliver & Thomas, 2012)\n\n\n\nWalk through each stage: Review initiation, Question & methodology, Search strategy, Study characteristics, Quality assessment, Synthesis, Reporting."
   },
   {
-    "objectID": "sr_ma_session.html#common-stages-of-a-systematic-review",
-    "href": "sr_ma_session.html#common-stages-of-a-systematic-review",
+    "objectID": "sr_ma_session.html#getting-started",
+    "href": "sr_ma_session.html#getting-started",
     "title": "Systematic Reviews & Meta-Analysis",
-    "section": "Common Stages of a Systematic Review",
-    "text": "Common Stages of a Systematic Review\n\n\n\nFigure 2: Stages of a systematic review (Adapted from Gough, Oliver & Thomas, 2012)\n\n\n\nThis is a flowchart from the book. Walk through each stage: Review initiation -&gt; Question & methodology -&gt; Search strategy -&gt; Study characteristics -&gt; Quality assessment -&gt; Synthesis -&gt; Reporting. Emphasise that stakeholder engagement runs alongside."
+    "section": "Getting Started",
+    "text": "Getting Started\n\n\nYour Review Team\n\nClinical / subject expert\nSR methods expert\nStatistician\nLibrarian / information specialist\n\n\nBefore You Start\n\nCheck for existing reviews (Cochrane, PROSPERO)\nWrite and register a protocol\nAgree on timelines (aim: ~1 year)\nChoose software for each stage"
   },
   {
-    "objectID": "sr_ma_session.html#getting-started-before-you-begin",
-    "href": "sr_ma_session.html#getting-started-before-you-begin",
+    "objectID": "sr_ma_session.html#step-1-ask-a-focused-question-pico",
+    "href": "sr_ma_session.html#step-1-ask-a-focused-question-pico",
     "title": "Systematic Reviews & Meta-Analysis",
-    "section": "Getting Started: Before You Begin",
-    "text": "Getting Started: Before You Begin\n\n\nReview Team\n\nClinical/subject expert\nSR methods expert\nStatistician\nInformation specialist/librarian\nHealth economist (if needed)\n\n\nKey Considerations\n\nCheck for existing reviews (Cochrane, Campbell, PROSPERO)\nForm an advisory group\nEstablish timelines (aim: within 1 year)\nEngage stakeholders early\nSelect software for each stage"
-  },
-  {
-    "objectID": "sr_ma_session.html#writing-a-protocol",
-    "href": "sr_ma_session.html#writing-a-protocol",
-    "title": "Systematic Reviews & Meta-Analysis",
-    "section": "Writing a Protocol",
-    "text": "Writing a Protocol\nA protocol is an a priori statement of aims and methods. It:\n\nExplains the rationale for the review\nStates the hypothesis and review question\nOutlines the methodology (search, selection, extraction, synthesis)\nPrevents arbitrary decisions during the review process\nShould be registered on PROSPERO (or published as Cochrane protocol)\n\n\nProtocol components: Background, Objectives, Methods (inclusion criteria, search strategy, data collection, risk of bias assessment, measures of effect, heterogeneity assessment, data synthesis, subgroup/sensitivity analyses)"
-  },
-  {
-    "objectID": "sr_ma_session.html#step-1-formulate-a-focused-question-pico",
-    "href": "sr_ma_session.html#step-1-formulate-a-focused-question-pico",
-    "title": "Systematic Reviews & Meta-Analysis",
-    "section": "Step 1: Formulate a Focused Question (PICO)",
-    "text": "Step 1: Formulate a Focused Question (PICO)\n\n\n\nFigure 3: Structured questions for systematic reviews and relation between question components\n\n\n\nThe figure shows how Population, Intervention, Comparator, and Outcome relate in a comparative study design. Emphasise that the question drives EVERY subsequent step: search terms, inclusion criteria, data extraction, synthesis."
+    "section": "Step 1: Ask a Focused Question (PICO)",
+    "text": "Step 1: Ask a Focused Question (PICO)\n\n\n\nFigure 3: How PICO components relate in a comparative study\n\n\n\nThe question drives EVERY subsequent step: search terms, inclusion criteria, data extraction, synthesis."
   },
   {
     "objectID": "sr_ma_session.html#the-pico-framework",
     "href": "sr_ma_session.html#the-pico-framework",
     "title": "Systematic Reviews & Meta-Analysis",
     "section": "The PICO Framework",
-    "text": "The PICO Framework\n\n\n\n\n\n\n\n\n\n\nComponent\nTreatment\nPrevention\nDiagnosis\nPrognosis\n\n\n\n\nPopulation\nDisease/condition\nRisk factors\nTarget condition\nPrognostic factors\n\n\nIntervention\nTherapeutic measure\nPreventive measure\nDiagnostic test\nTime/waiting\n\n\nComparator\nStandard care/placebo\nMay not apply\nGold standard test\nUsually N/A\n\n\nOutcome\nMortality, disability\nDisease incidence\nSensitivity/specificity\nSurvival rates\n\n\n\n\nVariants: PEO (exposure), PICOC (context), PICo (qualitative), CoCoPop (prevalence), PIRD (diagnostic accuracy)"
+    "text": "The PICO Framework\n\n\n\n\n\n\n\n\n\nWhat it means\nExample\n\n\n\n\nP – Population\nWho are the patients / participants?\nWomen with domestic violence\n\n\nI – Intervention\nWhat treatment / exposure?\nAdvocacy programmes\n\n\nC – Comparator\nCompared to what?\nStandard care\n\n\nO – Outcome\nWhat do we measure?\nQuality of life\n\n\n\n\nTip: Your PICO directly becomes your review title, search terms, and inclusion criteria."
   },
   {
-    "objectID": "sr_ma_session.html#pico-example",
-    "href": "sr_ma_session.html#pico-example",
+    "objectID": "sr_ma_session.html#step-2-search-for-studies",
+    "href": "sr_ma_session.html#step-2-search-for-studies",
     "title": "Systematic Reviews & Meta-Analysis",
-    "section": "PICO Example",
-    "text": "PICO Example\n\n\nProblem Statement\nLittle is known about the effectiveness of advocacy programmes compared to other treatments on women’s quality of life among those who have experienced domestic violence.\n\nStructured Question\n\n\n\nP\nWomen who experienced domestic violence\n\n\nI\nAdvocacy programmes\n\n\nC\nOther treatments\n\n\nO\nQuality of life\n\n\n\nTitle: A systematic review on the effectiveness of advocacy programmes compared to other treatments on improving the quality of life of women who have experienced domestic violence."
+    "section": "Step 2: Search for Studies",
+    "text": "Step 2: Search for Studies\n\n\nBuild Your Search String\n\nList keywords for each PICO element\nAdd synonyms and MeSH terms\nCombine with Boolean operators\n\nOR within elements (broadens)\nAND across elements (narrows)\n\n\n\nWhere to Search\n\nPubMed / MEDLINE (biomedical)\nCochrane Library (trials & reviews)\nEMBASE (pharma, devices)\nGoogle Scholar (grey literature)\nCTRI / ClinicalTrials.gov (trials)"
   },
   {
-    "objectID": "sr_ma_session.html#types-of-systematic-reviews",
-    "href": "sr_ma_session.html#types-of-systematic-reviews",
+    "objectID": "sr_ma_session.html#step-3-screen-select-studies",
+    "href": "sr_ma_session.html#step-3-screen-select-studies",
     "title": "Systematic Reviews & Meta-Analysis",
-    "section": "Types of Systematic Reviews",
-    "text": "Types of Systematic Reviews\n\n\n\nType\nAim\nFramework\n\n\n\n\nEffectiveness\nEvaluate intervention impact\nPICO\n\n\nExperiential (qualitative)\nExplore lived experience\nPICo\n\n\nCost/economic\nAssess cost-effectiveness\nPICOC\n\n\nPrevalence/incidence\nMeasure disease burden\nCoCoPop\n\n\nDiagnostic test accuracy\nTest sensitivity/specificity\nPIRD\n\n\nAetiology/risk\nExposure-outcome association\nPEO\n\n\nPrognostic\nCourse of disease, predictors\nPFO\n\n\nMethodology\nExamine research methods\nSDMO"
+    "section": "Step 3: Screen & Select Studies",
+    "text": "Step 3: Screen & Select Studies\nTwo-stage process (always done by two reviewers independently)\n. . .\nStage 1 – Title & Abstract: Remove clearly irrelevant hits\n. . .\nStage 2 – Full Text: Apply inclusion / exclusion criteria\n. . .\nTools to Help\n\nRayyan (free) or Covidence for screening\nZotero or EndNote for reference management\nRecord everything for the PRISMA flow diagram"
   },
   {
-    "objectID": "sr_ma_session.html#step-2-develop-a-search-strategy",
-    "href": "sr_ma_session.html#step-2-develop-a-search-strategy",
+    "objectID": "sr_ma_session.html#step-4-extract-data-appraise-quality",
+    "href": "sr_ma_session.html#step-4-extract-data-appraise-quality",
     "title": "Systematic Reviews & Meta-Analysis",
-    "section": "Step 2: Develop a Search Strategy",
-    "text": "Step 2: Develop a Search Strategy\nThree Key Steps\n\nIdentify PICO components and their keywords\nFind synonyms for each keyword (dictionaries, MeSH, textbooks)\nConstruct search strings using Boolean operators\n\n. . .\nBoolean Logic\n\nOR = combines synonyms within a PICO element (broadens)\nAND = combines across PICO elements (narrows)\nTruncation (*, ?) = captures word variants\n\n. . .\nExample: (anal fissure OR fissure-in-ano) AND (sphincterotomy OR fissurectomy) AND (incontinence OR soilage)"
+    "section": "Step 4: Extract Data & Appraise Quality",
+    "text": "Step 4: Extract Data & Appraise Quality\n\n\nData Extraction\n\nUse a standardised form\nExtract: study design, population, intervention, outcomes, results\nTwo reviewers extract independently\nContact authors for missing data\n\n\nRisk of Bias Assessment\n\nWas randomisation done properly?\nWere participants / assessors blinded?\nWas follow-up complete?\nWere all outcomes reported?\n\nEach domain rated: Low, High, or Unclear risk"
   },
   {
-    "objectID": "sr_ma_session.html#step-3-comprehensive-search",
-    "href": "sr_ma_session.html#step-3-comprehensive-search",
+    "objectID": "sr_ma_session.html#grade-how-confident-are-we",
+    "href": "sr_ma_session.html#grade-how-confident-are-we",
     "title": "Systematic Reviews & Meta-Analysis",
-    "section": "Step 3: Comprehensive Search",
-    "text": "Step 3: Comprehensive Search\n\n\nPublished Literature\n\nCore: Cochrane Library, MEDLINE/PubMed, EMBASE, Web of Science\nSubject-specific: CINAHL, PsycINFO, ERIC, PEDro\nRegional: IndMED, CTRI, SADCCT\n\n\nGrey Literature\n\nGoogle Scholar\nProQuest / Shodhganga (theses)\nOpenGrey\nConference proceedings\nClinical trial registries (ClinicalTrials.gov, CTRI)\n\n\n\nImportant: Tailor search syntax to each database (PubMed MeSH vs EMBASE Emtree). Record every search for transparency. Export to reference manager (Zotero, EndNote)."
+    "section": "GRADE: How Confident Are We?",
+    "text": "GRADE: How Confident Are We?\n\n\n\nGRADE certainty ratings – from Very Low to High\n\n\n\nGRADE = Grading of Recommendations, Assessment, Development and Evaluations. RCT evidence starts HIGH, observational starts LOW."
   },
   {
-    "objectID": "sr_ma_session.html#step-4-screen-select-studies",
-    "href": "sr_ma_session.html#step-4-screen-select-studies",
+    "objectID": "sr_ma_session.html#grade-in-a-nutshell",
+    "href": "sr_ma_session.html#grade-in-a-nutshell",
     "title": "Systematic Reviews & Meta-Analysis",
-    "section": "Step 4: Screen & Select Studies",
-    "text": "Step 4: Screen & Select Studies\nTwo-stage screening process\n\nTitle/abstract screening – remove clearly irrelevant hits\nFull-text screening – assess against inclusion/exclusion criteria\n\n. . .\nBest Practices\n\nTwo independent reviewers at both stages\nCalculate inter-rater reliability (kappa &gt;= 0.5 = substantial agreement)\nRecord decisions in PRISMA flowchart\nUse screening software: Covidence, Rayyan, EPPI-Reviewer"
-  },
-  {
-    "objectID": "sr_ma_session.html#step-5-data-extraction",
-    "href": "sr_ma_session.html#step-5-data-extraction",
-    "title": "Systematic Reviews & Meta-Analysis",
-    "section": "Step 5: Data Extraction",
-    "text": "Step 5: Data Extraction\n\n\nWhat to Extract\n\nStudy characteristics (design, setting, dates)\nPopulation (demographics, inclusion criteria)\nIntervention details (dose, duration, delivery)\nOutcomes (definition, measurement, time points)\nResults (effect estimates, sample sizes)\n\n\nGood Practice\n\nUse pre-tested extraction forms\nTwo reviewers extract independently\nNote data location (page, table, figure)\nContact original authors for missing data\nPerform kappa check for consistency"
-  },
-  {
-    "objectID": "sr_ma_session.html#step-6-critical-appraisal-risk-of-bias",
-    "href": "sr_ma_session.html#step-6-critical-appraisal-risk-of-bias",
-    "title": "Systematic Reviews & Meta-Analysis",
-    "section": "Step 6: Critical Appraisal (Risk of Bias)",
-    "text": "Step 6: Critical Appraisal (Risk of Bias)\nCochrane Risk of Bias Domains\n\n\n\nDomain\nType of Bias\n\n\n\n\nRandom sequence generation\nSelection bias\n\n\nAllocation concealment\nSelection bias\n\n\nBlinding of participants/personnel\nPerformance bias\n\n\nBlinding of outcome assessment\nDetection bias\n\n\nIncomplete outcome data\nAttrition bias\n\n\nSelective outcome reporting\nReporting bias\n\n\n\n. . .\nEach study rated as Low risk, High risk, or Unclear for each domain.\nTwo reviewers assess independently; disagreements resolved by a third reviewer."
-  },
-  {
-    "objectID": "sr_ma_session.html#grade-certainty-of-evidence",
-    "href": "sr_ma_session.html#grade-certainty-of-evidence",
-    "title": "Systematic Reviews & Meta-Analysis",
-    "section": "GRADE: Certainty of Evidence",
-    "text": "GRADE: Certainty of Evidence\n\n\n\nTable 9: GRADE certainty ratings – from Very Low to High\n\n\n\nGRADE = Grading of Recommendations, Assessment, Development and Evaluations. Most widely adopted tool for grading quality of evidence. RCT evidence starts HIGH, observational starts LOW."
-  },
-  {
-    "objectID": "sr_ma_session.html#grade-certainty-levels",
-    "href": "sr_ma_session.html#grade-certainty-levels",
-    "title": "Systematic Reviews & Meta-Analysis",
-    "section": "GRADE Certainty Levels",
-    "text": "GRADE Certainty Levels\n\n\n\n\n\n\n\nLevel\nMeaning\n\n\n\n\nHigh\nVery confident the true effect is close to the estimate\n\n\nModerate\nTrue effect likely close to estimate, but could be substantially different\n\n\nLow\nLimited confidence; true effect may be substantially different\n\n\nVery Low\nVery little confidence; true effect likely substantially different\n\n\n\n\nReasons for Downgrading (one or two levels each)\n\nRisk of bias (study design limitations)\nInconsistency (unexplained heterogeneity)\nIndirectness (population, intervention, or outcome mismatch)\nImprecision (wide confidence intervals, few events)\nPublication bias (asymmetric funnel plot, small-study effects)"
+    "section": "GRADE in a Nutshell",
+    "text": "GRADE in a Nutshell\n\n\n\nCertainty\nWhat it means\n\n\n\n\nHigh\nWe are very confident in the effect estimate\n\n\nModerate\nTrue effect is probably close, but could differ\n\n\nLow\nTrue effect may be substantially different\n\n\nVery Low\nWe have very little confidence\n\n\n\n\nFive reasons to downgrade\nRisk of bias, Inconsistency, Indirectness, Imprecision, Publication bias"
   },
   {
     "objectID": "sr_ma_session.html#what-is-meta-analysis",
     "href": "sr_ma_session.html#what-is-meta-analysis",
     "title": "Systematic Reviews & Meta-Analysis",
     "section": "What is Meta-Analysis?",
-    "text": "What is Meta-Analysis?\n\nA quantitative method to summarise results from multiple studies using rigorous statistical techniques to produce a single pooled effect estimate.\n\n\nCoined by Gene V. Glass in 1976\nIncreases statistical power by combining small studies\nImproves precision of effect estimates\nExamines and quantifies between-study variability\nSimilar to a cross-sectional study where subjects are individual studies\n\n\nKey prerequisite: Studies must be sufficiently similar (clinically and methodologically) to combine."
+    "text": "What is Meta-Analysis?\n\nA statistical method that combines results from multiple studies to produce a single pooled effect estimate.\n\n\nIncreases statistical power by combining small studies\nImproves precision of the overall estimate\nQuantifies variability between studies (heterogeneity)\nNot every SR needs one – only when studies are sufficiently similar"
   },
   {
-    "objectID": "sr_ma_session.html#effect-measures",
-    "href": "sr_ma_session.html#effect-measures",
+    "objectID": "sr_ma_session.html#common-effect-measures",
+    "href": "sr_ma_session.html#common-effect-measures",
     "title": "Systematic Reviews & Meta-Analysis",
-    "section": "Effect Measures",
-    "text": "Effect Measures\n\n\nContinuous Outcomes\n\nStandardised Mean Difference (SMD)\n\nCohen’s d or Hedges’ g\nSmall: 0.20, Moderate: 0.50, Large: 0.80\n\nWeighted Mean Difference (WMD)\n\nSame measurement scale across studies\n\n\n\nDichotomous Outcomes\n\nRisk Ratio (RR) = risk in exposed / risk in unexposed\nOdds Ratio (OR) = odds in exposed / odds in unexposed\nRisk Difference (RD) = absolute difference in risks\nAll reported with 95% CI\n\n\n\nCorrelation studies: Use correlation coefficient r (Fisher’s z-transformation for CI)."
+    "section": "Common Effect Measures",
+    "text": "Common Effect Measures\n\n\nFor Yes/No Outcomes\n(e.g., died vs survived)\n\nRisk Ratio (RR)\nOdds Ratio (OR)\nRisk Difference (RD)\n\n\nFor Continuous Outcomes\n(e.g., blood pressure, weight)\n\nMean Difference (MD)\nStandardised Mean Difference (SMD)\n\n\n\nAll reported with a 95% Confidence Interval – if the CI crosses 1 (for RR/OR) or 0 (for MD), the result is not statistically significant."
   },
   {
-    "objectID": "sr_ma_session.html#heterogeneity",
-    "href": "sr_ma_session.html#heterogeneity",
+    "objectID": "sr_ma_session.html#heterogeneity-why-do-studies-differ",
+    "href": "sr_ma_session.html#heterogeneity-why-do-studies-differ",
     "title": "Systematic Reviews & Meta-Analysis",
-    "section": "Heterogeneity",
-    "text": "Heterogeneity\nWhat causes it?\n\nStudy design differences (inclusion criteria, treatment duration)\nPopulation differences (age, severity, prognostic factors)\nOutcome measurement differences\nStudy quality variation\n\n. . .\nHow to measure it?\n\n\n\n\n\n\n\nStatistic\nInterpretation\n\n\n\n\nCochran’s Q\nChi-square test; low power when few studies\n\n\nI2 statistic\n% of variation due to heterogeneity (not chance)\n\n\n\n. . .\nI2 interpretation: 0–40% unimportant | 30–60% moderate | 50–90% substantial | 75–100% considerable"
+    "section": "Heterogeneity: Why Do Studies Differ?",
+    "text": "Heterogeneity: Why Do Studies Differ?\n\nDifferent populations (age, severity, setting)\nDifferent interventions (dose, duration)\nDifferent study designs or quality\nDifferent outcome measures\n\n\nThe I2 Statistic\nTells you what percentage of variation is due to real differences (not chance):\n\n\n\nI2\nInterpretation\n\n\n\n\n0–40%\nProbably not important\n\n\n30–60%\nModerate heterogeneity\n\n\n50–90%\nSubstantial heterogeneity\n\n\n75–100%\nConsiderable heterogeneity"
   },
   {
-    "objectID": "sr_ma_session.html#fixed-vs-random-effects-models",
-    "href": "sr_ma_session.html#fixed-vs-random-effects-models",
+    "objectID": "sr_ma_session.html#fixed-vs-random-effects",
+    "href": "sr_ma_session.html#fixed-vs-random-effects",
     "title": "Systematic Reviews & Meta-Analysis",
-    "section": "Fixed vs Random Effects Models",
-    "text": "Fixed vs Random Effects Models\n\n\nFixed Effects\n\nAssumes one true effect underlies all studies\nAll observed variation is due to chance\nUsed when I2 is small\nQuestion: “Did the treatment produce benefit in these studies?”\n\n\nRandom Effects\n\nAssumes studies estimate different true effects\nAllows for between-study variability\nProduces wider confidence intervals\nGives larger weight to smaller studies\nQuestion: “What is the average effect across all possible studies?”"
-  },
-  {
-    "objectID": "sr_ma_session.html#graphical-methods-labbe-plot",
-    "href": "sr_ma_session.html#graphical-methods-labbe-plot",
-    "title": "Systematic Reviews & Meta-Analysis",
-    "section": "Graphical Methods: L’Abbe Plot",
-    "text": "Graphical Methods: L’Abbe Plot\n\n\n\nFigure 4: L’Abbe plot – experimental vs control event rates; points above the diagonal favour intervention\n\n\n\nL’Abbe plot: each point = one study. X-axis = control event rate, Y-axis = experimental event rate. Points above the 45-degree line indicate the experimental group did worse. Symbol size represents sample size. Useful for spotting heterogeneity in event rates."
-  },
-  {
-    "objectID": "sr_ma_session.html#graphical-methods-galbraith-plot",
-    "href": "sr_ma_session.html#graphical-methods-galbraith-plot",
-    "title": "Systematic Reviews & Meta-Analysis",
-    "section": "Graphical Methods: Galbraith Plot",
-    "text": "Graphical Methods: Galbraith Plot\n\n\n\nFigure 5: Galbraith plot – standardised effect vs precision; vertical scatter = heterogeneity\n\n\n\nGalbraith plot: X-axis = 1/SE (precision), Y-axis = effect/SE (standardised effect). Imprecise studies cluster near origin, precise ones further away. Points outside the confidence band are outliers driving heterogeneity."
-  },
-  {
-    "objectID": "sr_ma_session.html#graphical-methods-baujat-plot",
-    "href": "sr_ma_session.html#graphical-methods-baujat-plot",
-    "title": "Systematic Reviews & Meta-Analysis",
-    "section": "Graphical Methods: Baujat Plot",
-    "text": "Graphical Methods: Baujat Plot\n\n\n\nFigure 6: Baujat plot – contribution to heterogeneity (X) vs influence on pooled result (Y)\n\n\n\nBaujat plot: Each dot = one study. X-axis = contribution to overall Q statistic (heterogeneity). Y-axis = influence on the pooled result. Studies in the upper-right quadrant contribute most to heterogeneity AND influence the result – these are candidates for sensitivity analysis."
-  },
-  {
-    "objectID": "sr_ma_session.html#graphical-methods-funnel-plot",
-    "href": "sr_ma_session.html#graphical-methods-funnel-plot",
-    "title": "Systematic Reviews & Meta-Analysis",
-    "section": "Graphical Methods: Funnel Plot",
-    "text": "Graphical Methods: Funnel Plot\n\n\n\nFigure 7: Funnel plot – effect estimate vs standard error; asymmetry suggests publication bias\n\n\n\nFunnel plot: X-axis = effect estimate (e.g., log OR), Y-axis = standard error (inverted). Symmetric funnel = no publication bias. Asymmetry suggests: small-study effects, publication bias, or true heterogeneity. Formal tests: Egger’s test, Begg’s test."
+    "section": "Fixed vs Random Effects",
+    "text": "Fixed vs Random Effects\n\n\nFixed Effects Model\n\nAssumes one true effect in all studies\nBest when studies are very similar\nGives more weight to larger studies\n\n\nRandom Effects Model\n\nAssumes the true effect varies across studies\nBest when there is some heterogeneity\nGives relatively more weight to smaller studies\nProduces wider confidence intervals"
   },
   {
     "objectID": "sr_ma_session.html#the-forest-plot",
     "href": "sr_ma_session.html#the-forest-plot",
     "title": "Systematic Reviews & Meta-Analysis",
     "section": "The Forest Plot",
-    "text": "The Forest Plot\n\n\n\nFigure 8: Forest plot comparing two interventions with pooled estimate\n\n\n\nWalk through the 6 columns: (1) Study IDs, (2) Experimental n/N, (3) Control n/N, (4) Graphical RR with CI (boxes + whiskers + diamond), (5) Weight %, (6) Numerical RR with 95% CI. The diamond = pooled effect. Vertical line = line of no effect (RR=1). If diamond doesn’t touch the line, result is statistically significant."
+    "text": "The Forest Plot\n\n\n\nFigure 8: Forest plot comparing two interventions\n\n\n\nWalk through: study IDs, event counts, graphical display (boxes = studies, diamond = pooled), weight column, numerical results. Vertical line = no effect."
   },
   {
     "objectID": "sr_ma_session.html#reading-a-forest-plot",
     "href": "sr_ma_session.html#reading-a-forest-plot",
     "title": "Systematic Reviews & Meta-Analysis",
     "section": "Reading a Forest Plot",
-    "text": "Reading a Forest Plot\n\n\nKey Elements\n\nBoxes = individual study effect estimates\n\nSize proportional to study weight\n\nWhiskers = 95% confidence intervals\nDiamond = pooled (summary) effect\n\nWidth = confidence interval\n\nVertical line = line of no effect (1 for RR/OR; 0 for MD)\n\n\nInterpretation Rules\n\nResults left of line (for adverse outcomes): intervention is better\nResults right of line (for beneficial outcomes): intervention is better\nDiamond not touching the line: statistically significant\nCheck I2 and p-value for heterogeneity at bottom"
+    "text": "Reading a Forest Plot\n\n\n\n\n\n\nBoxes = individual study results (bigger box = more weight)\nWhiskers = 95% confidence interval\nDiamond = pooled (combined) result\nVertical line = no difference between groups\nIf the diamond does not touch the line: result is statistically significant"
+  },
+  {
+    "objectID": "sr_ma_session.html#the-funnel-plot",
+    "href": "sr_ma_session.html#the-funnel-plot",
+    "title": "Systematic Reviews & Meta-Analysis",
+    "section": "The Funnel Plot",
+    "text": "The Funnel Plot\n\n\n\nFigure 7: Funnel plot – checks for publication bias\n\n\n\nSymmetric funnel = no publication bias. Asymmetry suggests small studies with negative results may be missing. Formal tests: Egger’s test."
   },
   {
     "objectID": "sr_ma_session.html#prisma-2020-flow-diagram",
     "href": "sr_ma_session.html#prisma-2020-flow-diagram",
     "title": "Systematic Reviews & Meta-Analysis",
     "section": "PRISMA 2020 Flow Diagram",
-    "text": "PRISMA 2020 Flow Diagram\n\n\n\nFigure 9: PRISMA 2020 – standardised reporting of study identification, screening, and inclusion\n\n\n\nPRISMA 2020 updated the original 2009 flow diagram. Key changes: separate columns for databases/registers vs other methods; explicit box for automation tools; records vs reports distinction. Every SR should include this flow diagram."
+    "text": "PRISMA 2020 Flow Diagram\n\n\n\nFigure 9: PRISMA 2020 – every SR should include this\n\n\n\nPRISMA 2020 updated the original 2009 version. Shows exactly how many records were identified, screened, excluded, and included."
   },
   {
-    "objectID": "sr_ma_session.html#reporting-guidelines",
-    "href": "sr_ma_session.html#reporting-guidelines",
+    "objectID": "sr_ma_session.html#reporting-dissemination",
+    "href": "sr_ma_session.html#reporting-dissemination",
     "title": "Systematic Reviews & Meta-Analysis",
-    "section": "Reporting Guidelines",
-    "text": "Reporting Guidelines\n\n\n\nGuideline\nUse For\n\n\n\n\nPRISMA 2020\nSystematic reviews of interventions\n\n\nMOOSE\nMeta-analyses of observational studies\n\n\nPRISMA-P\nSystematic review protocols\n\n\nPRISMA-S\nReporting search strategies\n\n\n\n\nExpected Information in a SR Report\n\nSearch strategy with strings and database results (appendix)\nExcluded studies list with reasons for exclusion\nUnobtainable articles (potentially relevant but not screened)\nData extraction and quality assessment tables\nPRISMA flow diagram"
+    "section": "Reporting & Dissemination",
+    "text": "Reporting & Dissemination\nReporting Guidelines\n\n\n\nGuideline\nUse For\n\n\n\n\nPRISMA 2020\nSystematic reviews of interventions\n\n\nMOOSE\nMeta-analyses of observational studies\n\n\nPRISMA-P\nSystematic review protocols\n\n\n\n. . .\nSharing Your Findings\n\nSummary of Findings table (GRADE) – for clinicians\nPlain Language Summary – for non-specialists and patients\nPolicy Brief – for decision-makers (2–4 pages)"
   },
   {
-    "objectID": "sr_ma_session.html#disseminating-findings",
-    "href": "sr_ma_session.html#disseminating-findings",
+    "objectID": "sr_ma_session.html#useful-software-free-options",
+    "href": "sr_ma_session.html#useful-software-free-options",
     "title": "Systematic Reviews & Meta-Analysis",
-    "section": "Disseminating Findings",
-    "text": "Disseminating Findings\n\n\nEvidence Summary\n\nSummary of findings table (GRADE)\nKey outcomes with certainty ratings\nFor clinicians and decision-makers\n\n\nPlain Language Summary\n\nWritten for non-specialist audience\nAvoids jargon\nStructured: background, methods, key findings, implications\n\n\nPolicy Briefs\n\nTargeted at policy-makers\nActionable recommendations\nContext-specific implications\n2–4 pages maximum"
+    "section": "Useful Software (Free Options)",
+    "text": "Useful Software (Free Options)\n\n\n\nStage\nTool\n\n\n\n\nReference management\nZotero\n\n\nScreening\nRayyan\n\n\nData extraction\nMS Excel (with template)\n\n\nMeta-analysis\nRevMan (Cochrane) or R\n\n\nGRADE assessment\nGRADEpro GDT\n\n\nReporting\nPRISMA flow diagram generator"
   },
   {
-    "objectID": "sr_ma_session.html#software-for-each-stage",
-    "href": "sr_ma_session.html#software-for-each-stage",
+    "objectID": "sr_ma_session.html#where-to-learn-more",
+    "href": "sr_ma_session.html#where-to-learn-more",
     "title": "Systematic Reviews & Meta-Analysis",
-    "section": "Software for Each Stage",
-    "text": "Software for Each Stage\n\n\n\n\n\n\n\n\nStage\nFree Options\nPaid Options\n\n\n\n\nReference management\nZotero\nEndNote, Mendeley\n\n\nScreening\nRayyan, Covidence (limited)\nEPPI-Reviewer, DistillerSR\n\n\nData extraction\nMS Excel\nEPPI-Reviewer, SRDR\n\n\nCritical appraisal\nMS Excel, JBI tools\nEPPI-Reviewer\n\n\nMeta-analysis\nRevMan, R, OpenMeta Analyst\nStata, CMA, SPSS\n\n\nGRADE\nGRADEpro GDT\n–\n\n\nQualitative synthesis\nJBI QARI\nNVivo, MAXQDA"
-  },
-  {
-    "objectID": "sr_ma_session.html#key-resources-for-beginners",
-    "href": "sr_ma_session.html#key-resources-for-beginners",
-    "title": "Systematic Reviews & Meta-Analysis",
-    "section": "Key Resources for Beginners",
-    "text": "Key Resources for Beginners\n\nCochrane Handbook for Systematic Reviews of Interventions\nCampbell Collaboration resources\nPROSPERO – register your protocol\nEQUATOR Network – reporting guidelines\nGRADE Working Group – certainty of evidence\nCochrane Training – free online learning\nCentre for Evidence-Based Medicine (CEBM)\nSystematic Review Toolbox (systematicreviewtools.com)"
+    "section": "Where to Learn More",
+    "text": "Where to Learn More\n\nCochrane Handbook – the gold standard reference\nCochrane Training – free online courses\nPROSPERO – register your protocol here\nEQUATOR Network – find the right reporting guideline\nGRADE Working Group – certainty of evidence resources\nSystematic Review Toolbox – systematicreviewtools.com"
   },
   {
     "objectID": "sr_ma_session.html#key-takeaways",
     "href": "sr_ma_session.html#key-takeaways",
     "title": "Systematic Reviews & Meta-Analysis",
     "section": "Key Takeaways",
-    "text": "Key Takeaways\n\nA systematic review follows a rigorous, pre-defined protocol to minimise bias\nThe PICO framework structures your review question and drives all subsequent steps\nA comprehensive, reproducible search across multiple databases is essential\nTwo independent reviewers at every stage (screening, extraction, appraisal)\nGRADE assesses the certainty of the overall body of evidence\nMeta-analysis is a statistical tool that may be part of an SR – not every SR needs one\nForest plots are the primary visual output; funnel plots assess publication bias\nPRISMA 2020 is the standard reporting guideline"
+    "text": "Key Takeaways\n\nAn SR follows a pre-defined protocol to minimise bias\nPICO structures your question and drives every step\nSearch comprehensively across multiple databases\nUse two independent reviewers at every stage\nGRADE tells you how confident to be in the evidence\nMeta-analysis pools results statistically – but only when appropriate\nReport using PRISMA 2020"
   },
   {
     "objectID": "sr_ma_session.html#thank-you",
     "href": "sr_ma_session.html#thank-you",
     "title": "Systematic Reviews & Meta-Analysis",
     "section": "Thank You",
-    "text": "Thank You\nReferences\n\nSinha A, Menon GR, John D. Beginner’s Guide for Systematic Reviews. ICMR Publication.\nCochrane Handbook for Systematic Reviews of Interventions (v6.3)\nPage MJ et al. PRISMA 2020. BMJ 2021;372:n71\nGuyatt GH et al. GRADE guidelines. J Clin Epidemiol 2011;64(4):383–94\nHiggins JPT, Thompson SG. Quantifying heterogeneity. Stat Med 2002;21:1539–58\n\n\nOpen floor for questions. Suggest participants try a practice exercise: formulate a PICO question in their area of interest and identify 3 databases to search."
+    "text": "Thank You\nReferences\n\nSinha A, Menon GR, John D. Beginner’s Guide for Systematic Reviews. ICMR.\nCochrane Handbook for Systematic Reviews of Interventions (v6.3)\nPage MJ et al. PRISMA 2020. BMJ 2021;372:n71\nGRADE Working Group. gradeworkinggroup.org\n\n\nSuggest participants try: formulate a PICO question in their area of interest and identify 3 databases to search."
   }
 ]
